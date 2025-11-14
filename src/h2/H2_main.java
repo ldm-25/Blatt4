@@ -62,7 +62,7 @@ public class H2_main
 		}
 		
 		
-		System.out.println ("x="+x+"y="+y+"a="+a+"b="+b+"c="+c);
+		
 	}
 
 }

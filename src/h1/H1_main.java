@@ -34,7 +34,6 @@ public class H1_main
 			break;
 		}
 		
-		System.out.println(price);
 		
 	}
 	
